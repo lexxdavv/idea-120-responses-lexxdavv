@@ -6,7 +6,7 @@ I think the media, photography, film, different art styles and retwisting and cr
 
 The reason I am choosing to include [this link](https://magazine.artland.com/gesamtkunstwerk-the-total-work-of-art-through-the-ages/) is because it really goes through the "ages" of Gesamtkunstwerk. From the 1800s to modern day. This moderness has been modified in many differnt ways and styles. I personally think there is an example in the Rhizome Anthology that could qualify. Art is art. And anyone can create art. Art is simply producinng works of creativity and skill. With this concept, anything can qualify as art based on how you see it. We would have avant-gardes if art wasn't based on creativiness and perception. 
 
-<!--Hidden messages needs to be added; how to- cant use mardown syntax to do this but we can with html (notes or messages that viewers can see) <!--Write comments here--> <p>This is a paragraph using html file.</p> <!--the paragraph tag will be visible.-->
+<!--Hidden messages needs to be added; how to- cant use mardown syntax to do this but we can with html (notes or messages that viewers can see) <!--Write comments here--> <!--<p>This is a paragraph using html file.</p> <!--the paragraph tag will be visible.-->
 
 <!--Hidden image .-------------------.
      /--"--.------.------/|
