@@ -1,7 +1,7 @@
 # Week 5 | WMD
 ## Weapons of Math Destruction
 
-After reading Weapons of Math Destruction by Cath O'Neil it makes you realize how 
+After reading Weapons of Math Destruction by Cath O'Neil, it makes you realize how much we see this today. I did not know this was a thing until reading this. It's mindblowing that as stated in the reading "many poisonous assumptions are camoflaged by math this goes unquestioned and untested." Now knowing that this isn't just a situational thing it makes it a bigger deal. After hearing that teachers were getting 
 
 
 
