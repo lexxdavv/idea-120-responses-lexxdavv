@@ -10,6 +10,6 @@ Lastly, learning that employers are using credit scores in the hiring process is
 
 
 
-Ultimately, I would argue that WMD are unethical, inaccurate, and not resourceful. Testing teachers, placements tests, using credit scores for hiring, and so many more do not serve a credidable purpose. 
+Ultimately, I would argue that WMD are unethical, inaccurate, and not resourceful. Testing teachers, placements tests, using credit scores for hiring, and so many more do not serve a credidable purpose. Using scores or numbers to determine someone's future, how and or who is able to recieve certain things in life is not valid to them as a person and what they have to bring to the table. In conclusion this should not limit someone to what they might deserve and undervalue their skills. We should not value numbers more.  
 
 <!--This assignment should have been done in atom, but since I am using mac it does not work so I have to do it through github--!>
