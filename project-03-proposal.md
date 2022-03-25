@@ -1,6 +1,4 @@
 # Project 3
 ## Proposal
 
-write a 1-2 paragraph proposal explaining the concept for your non-linear narrative
-
 I recently have become very obsessed with the show Money Heist on Netflix. It basically goes through a whole plan of this money heist that has been in the making for years and created by the "professors" father. And the "professor" wanted to execute his father plan. The "professor" knew all the ins and outs of the heist and had it to the T. He knew any curve ball they would throw at him. He was prepared and ready. Based on this I will be sort of doing a escape plan for my project 3 inspired by money heist and for those wjo may not have had their plan to the T. To do this I will be having options and you basically have to choose the correct options in order to make it out of the money heist without being caught and or arrested. If you pass, you willget all the money you were promised in the beginning of the heist and will be able to do whatever your heart desires after the heist. Or will you be thirsty for more and take on being in another heist. 
