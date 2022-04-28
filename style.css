@@ -162,7 +162,8 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background-image: url("josefin-WS5yjFjycNY-unsplash.jpg") no-repeat center;
+    background-image: url("josefin-WS5yjFjycNY-unsplash.jpg")
+    background-repate: no-repeat;
     height: 100vh;
     color: #fff;
     min-height: 500px;
